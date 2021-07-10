@@ -1,0 +1,5 @@
+import model loop_sm
+
+generate p p > z z z, z > l+ l-
+
+output ZZZ

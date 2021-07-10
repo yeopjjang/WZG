@@ -1,0 +1,9 @@
+import model loop_sm
+
+define w = w+ w-
+define l = e+ mu+ e- mu-
+define nu = ve vm ve~ vm~
+
+generate p p > w z, w > l nu, z > l+ l-
+
+output WZ
